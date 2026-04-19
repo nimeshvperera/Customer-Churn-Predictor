@@ -15,4 +15,6 @@ Challenges & Solutions
   
   • Class imbalance → Stratified train/test split and evaluated with ROC-AUC + full classification report rather than raw accuracy
   
-Impact Delivered a production-ready binary classifier with a 3-layer ANN architecture that outputs churn probabilities per customer, giving retention teams a ranked at-risk list to act on before churn occurs.
+Impact 
+
+Delivered a production-ready binary classifier with a 3-layer ANN architecture that outputs churn probabilities per customer, giving retention teams a ranked at-risk list to act on before churn occurs.
