@@ -1,6 +1,7 @@
 # Customer-Churn-Predictor
 
 🧠 ANN Customer Churn Prediction
+
 Goal Built a deep learning model to predict which telecom customers are likely to churn, enabling proactive retention before revenue is lost.
 
 Tech Stack Python, TensorFlow, Keras, scikit-learn, pandas, NumPy, ANN (Sequential), Dropout Regularization, StandardScaler, Label Encoding.
